@@ -315,8 +315,8 @@ A familiar(ish) Ubuntu desktop for Fedora Silverblue. It strives to cover these 
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/sekalengrengginang">
-            <img src="https://avatars.githubusercontent.com/u/49896401?v=4" width="100;" alt="sekalengrengginang"/>
+        <a href="https://github.com/dreamyukii">
+            <img src="https://avatars.githubusercontent.com/u/49896401?v=4" width="100;" alt="dreamyukii"/>
             <br />
             <sub><b>Dreamyuki</b></sub>
         </a>
